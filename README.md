@@ -2,6 +2,8 @@
 
 ###  by [Juliet Buck](www.julietbuck.com)
 
+Press mouse to switch between black and white for the circle. 
+
 Go to the Terminal window (Mac) and type in:
 
 	"cd "
